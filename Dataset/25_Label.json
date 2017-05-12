@@ -1,0 +1,94 @@
+#GenreFullLabels
+{
+   "Animation":0,
+   "Action":1,
+   "Comedy":2,
+   "Adventure":3,
+   "Biography":4,
+   "Crime":5,
+   "Drama":6,
+   "Fantasy":7,
+   "Mystery":8,
+   "Romance":9,
+   "Sci-Fi":10,
+   "Documentary":11,
+   "Family":12,
+   "Horror":13,
+   "Thriller":14,
+   "Musical":15,
+   "Short":16,
+   "Western":17,
+   "Film-Noir":18,
+   "War":19,
+   "Music":20,
+   "Talk-Show":21,
+   "History":22,
+   "Adult":23,
+   "Sport":24
+}
+
+#SingleGenre
+{
+   "Comedy":0,
+   "Drama":1,
+   "Documentary":2,
+   "Horror":3,
+   "Thriller":4,
+   "Musical":5,
+   "Western":6,
+   "Fantasy":7,
+   "Mystery":8,
+   "Adventure":9,
+   "Action":10,
+   "Sci-Fi":11,
+   "Short":12,
+   "War":13,
+   "Music":14,
+   "Crime":15,
+   "Romance":16,
+   "Biography":17,
+   "Family":18,
+   "Animation":19,
+}
+
+#Genre3Label
+{
+   "Comedy":0,
+   "Drama":1,
+   "Documentary":2
+}
+
+#BalancedGenre3
+{
+   "Documentary":0,
+   "Drama":1,
+   "Comedy":3
+}
+
+#BalancedGenre4
+{
+"Documentary": 0,
+ "Horror": 1, 
+ "Drama": 2,
+"Comedy": 3, 
+}
+
+#BalancedTop3FullGenre{
+"Drama": 0 ,
+"Action": 1,
+"Comedy": 2
+}
+
+#BalancedTop9FullGenre
+{
+"Horror": 2,
+"Crime": 7, 
+"Drama": 1,
+"Animation": 4, 
+"Adventure": 6, 
+"Action": 5, 
+"Comedy": 8,
+"Documentary": 3,
+"Biography": 0
+}
+
